@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **MCA Degree**
 
-- 👨‍💻 All of my projects are available at [https://shubham-portfolio52.netlify.app/](https://shubham-portfolio52.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/ShubhamKumarRaman](https://github.com/ShubhamKumarRaman)
 
 - 💬 Ask me about **Android Development, Web Development**
 
 - 📫 How to reach me **https://shubham-portfolio52.netlify.app/**
 
-- 📄 Know about my experiences [https://shubham-portfolio52.netlify.app/](https://shubham-portfolio52.netlify.app/)
+- 📄 Know about my experiences [www.linkedin.com/in/shubham-kumar-040b1a27a](https://www.linkedin.com/in/shubham-kumar-040b1a27a)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
