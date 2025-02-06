@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **MCA Degree**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ShubhamKumarRaman](https://github.com/ShubhamKumarRaman)
+- 👨‍💻 All of my projects are available at [https://github.com/ShubhamKumarRaman](https://github.com/ShubhamKumarRaman?tab=repositories)
 
 - 💬 Ask me about **Android Development, Web Development**
 
