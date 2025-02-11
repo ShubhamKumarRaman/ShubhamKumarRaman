@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src = "https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamkumarraman&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamkumarraman" /> </p>
 
-- 🌱 I’m currently learning **MCA Degree**
+- 🌱 I’m currently pursuing **MCA Degree**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShubhamKumarRaman](https://github.com/ShubhamKumarRaman?tab=repositories)
 
