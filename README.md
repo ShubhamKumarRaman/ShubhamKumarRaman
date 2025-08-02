@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Android Development, Web Development**
 
-- 📫 How to reach me **https://shubham-portfolio52.netlify.app/**
+- 📫 How to reach me **https://shubhamportfolio121.netlify.app/**
 
 - 📄 Know about my experiences [www.linkedin.com/in/shubham-kumar-040b1a27a](https://www.linkedin.com/in/shubham-kumar-040b1a27a)
 
